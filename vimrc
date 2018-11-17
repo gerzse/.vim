@@ -7,3 +7,6 @@ set expandtab
 set foldmethod=indent
 set foldlevel=99
 set background=dark
+
+let g:tex_flavor='latex'
+
